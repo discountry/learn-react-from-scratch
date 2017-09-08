@@ -1,4 +1,4 @@
-# 4-2-react-router-4.0配置
+# 4-2-react-router-4.0 配置
 
 * BrowserRouter/Route
 * Link/NavLink

@@ -1,4 +1,4 @@
-# React & Redux 第一讲 react新版本及ES6简介
+# 1-1-React 新版本及 ES6 简介
 
 1. 课程简介
 2. Getting Started变化
