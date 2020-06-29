@@ -6,6 +6,8 @@
 > 
 > 教程谢绝任何形式转载。
 
+**从零学习 React 技术栈·实战篇》** 已在 [Gitchat](https://gitbook.cn/gitchat/column/59ae12fdbc511269a95f9616) 发布！
+
 React 是由 Facebook 主导开发的一个 JavaScript 框架。其实它和之前一些流行过的 MVVM 框架，例如 Angular 不同，React 主要只专注于 MVC 中的 V，也就是视图层。React 是当前最流行的，专门用来构建前端UI界面的框架。
 
 React 的优点是它很快、很轻。并且它组件化的思想在开发构建界面时也对我们有很大的帮助，React 风格的代码，在我们学过之后就会了解到，它这种很规范化的写法，在一个需要共同开发协作的项目组或团队中，也是非常有益处的。
